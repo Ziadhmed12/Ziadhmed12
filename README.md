@@ -17,9 +17,9 @@
   </p
     <center>
     <p align = "center">
-    <a href="https://drive.google.com/drive/folders/16pfCnEZfpSTxoDrYtJCVL6djo4uQ9yA6?usp=sharing">
+    <a href="https://drive.google.com/drive/folders/1AMyTjkEuGjuxe5WXLXD7A5v7uAXFiCeq">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://omar-dev.is-a.dev">
+    <a href="#">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
      </p>
      <center/>
@@ -28,7 +28,7 @@
 
   #### `📤 Connect & Competitive Programming`
   <div align="center">
-  <a href="https://www.linkedin.com/in/omar-el-sayed-21467837b/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
