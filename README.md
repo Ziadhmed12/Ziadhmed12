@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm  Omar Mohamed</h1>
+<h1 align="center">Hi, I'm Ziad Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Tech+Goblin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Goblin" alt="Typing SVG" />
 </p>
 
 <br>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Omar-0O"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Ziad"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Omar-0O4"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Ziadhmed12"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=Omar-0O&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p
     <center>
@@ -32,13 +32,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
-  <a href="Contact.omarmohamed@gmail.com" target="_blank">
+  <a href="#@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@Omar____" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="@omarmohamedQ" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
