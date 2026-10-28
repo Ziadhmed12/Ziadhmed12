@@ -13,7 +13,7 @@
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=Ziadhmed12"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=Omar-0O&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=Ziadhmed12&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p
     <center>
     <p align = "center">
